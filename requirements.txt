@@ -1,4 +1,0 @@
-kotoba
-imagination
-tori
-pyyaml
