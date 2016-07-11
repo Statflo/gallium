@@ -39,5 +39,5 @@ setup(
         'Topic :: Software Development :: Libraries'
     ],
     scripts          = install_cmds,
-    install_requires = ['imagination', 'kotoba']
+    install_requires = ['imagination', 'kotoba', 'pyyaml']
 )
